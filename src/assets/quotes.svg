@@ -1,0 +1,16 @@
+<svg id="a31a4c76-07de-4acd-854a-09ce28a646f1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 42.59996 27.6">
+  <defs>
+    <linearGradient id="a201eaae-a524-420f-9361-bdf185106e0c" x1="-1.48134" y1="-28.10541" x2="33.54879" y2="32.56855" gradientTransform="matrix(1, 0, 0, -1, 0, 30)" gradientUnits="userSpaceOnUse">
+      <stop offset="0.40223" stop-color="#292530"/>
+      <stop offset="0.56334" stop-color="#e14128"/>
+      <stop offset="0.56999" stop-color="#e24729"/>
+      <stop offset="0.63458" stop-color="#eb8037"/>
+      <stop offset="0.68998" stop-color="#f2a941"/>
+      <stop offset="0.73348" stop-color="#f6c347"/>
+      <stop offset="0.75968" stop-color="#f8cc49"/>
+      <stop offset="0.87089" stop-color="#f9ec83"/>
+      <stop offset="0.97395" stop-color="#f5f4c8"/>
+    </linearGradient>
+  </defs>
+  <path d="M11.7984,27.6l7.2-27.6h-6.6l-12,27.6Zm24,0,7.2-27.6h-6.6l-12,27.6Z" transform="translate(-0.39844)" fill="url(#a201eaae-a524-420f-9361-bdf185106e0c)"/>
+</svg>

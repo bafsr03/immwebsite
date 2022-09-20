@@ -1,0 +1,16 @@
+<svg id="e632faa7-6d34-42a2-acd7-4a5f963d76ae" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="b1c43ee4-9407-4bd7-a5d0-7b3263299a8c" x1="10.32703" y1="21.98883" x2="31.44083" y2="0.87503" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#292530"/>
+      <stop offset="0.23932" stop-color="#e14128"/>
+      <stop offset="0.24918" stop-color="#e24729"/>
+      <stop offset="0.34502" stop-color="#eb8037"/>
+      <stop offset="0.42722" stop-color="#f2a941"/>
+      <stop offset="0.49176" stop-color="#f6c347"/>
+      <stop offset="0.53063" stop-color="#f8cc49"/>
+      <stop offset="0.82061" stop-color="#f9ec83"/>
+      <stop offset="0.97395" stop-color="#f5f4c8"/>
+    </linearGradient>
+  </defs>
+  <path d="M31.4966.93117A3.09293,3.09293,0,0,0,28.4074.12586L2.65282,7.61524A3.07069,3.07069,0,0,0,.43911,10.0489,3.60538,3.60538,0,0,0,2.043,13.4135l8.05293,4.9494a2.08709,2.08709,0,0,0,2.5754-.3092l9.2214-9.27882a1.17419,1.17419,0,0,1,1.6967,0,1.2205,1.2205,0,0,1,0,1.70722L14.352,19.7625a2.11764,2.11764,0,0,0-.3089,2.5899l4.9204,8.1336A3.05629,3.05629,0,0,0,21.6206,32a3.32535,3.32535,0,0,0,.4001-.0161,3.11917,3.11917,0,0,0,2.6091-2.2227L32.2649,4.03967a3.14256,3.14256,0,0,0-.7683-3.1085" transform="translate(-0.40002 0)" fill="url(#b1c43ee4-9407-4bd7-a5d0-7b3263299a8c)"/>
+</svg>

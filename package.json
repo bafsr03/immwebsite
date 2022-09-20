@@ -2,11 +2,13 @@
   "name": "hoobank",
   "private": true,
   "version": "0.0.0",
+  "homepage":"bafsr03.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "deploy":"npm run build && gh-pages -d build"
   },
   "dependencies": {
     "@emailjs/browser": "^3.7.0",

@@ -2,7 +2,7 @@
   "name": "hoobank",
   "private": true,
   "version": "0.0.0",
-  "homepage":"bafsr03.github.io",
+  "homepage":"https://bafsr03.github.io/immwebsite",
   "type": "module",
   "scripts": {
     "dev": "vite",
